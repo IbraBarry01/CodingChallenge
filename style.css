@@ -1,0 +1,207 @@
+
+ body {
+
+    background: url('background.jpg');
+    background-repeat: no-repeat; 
+    background-size:cover;
+
+}
+
+.section{
+
+    background-color: rgba(0, 0, 0, 0.849);
+    position: relative;
+    height: 630px;
+    width: 870px;
+    top:  20px;
+    left: 300px;
+    border-radius: 20px;
+    opacity: 0.8;
+
+}
+
+.logo img {
+
+    width: 200px;
+    position: relative;
+    top: 25px;
+    left: 38%;
+}
+
+.title{
+
+    color: #C9E82C;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    top:  5px;
+    left: 30%;;
+
+}
+
+.menu {
+    
+    background-color: #C9E82C;
+    position: relative;
+    width: 650px;
+    height: 32px;
+    bottom: 14px;
+    margin: 0 90px;;
+    
+}
+
+button{
+
+    margin: 5px; 
+    height: 18px;
+    font-size: 12px;
+    
+}
+
+.bottoms  {
+
+    position: relative;
+    display: flex;
+    top: 3px;
+    left: 190px;
+
+}
+
+.MonoGino22{
+
+    color: white;
+    position: relative;
+    bottom: 20px;
+    left: 110px;
+
+}
+
+ .check {
+
+    position: absolute;
+    top: 2px;
+    left: -20px;
+    width: 12px;
+
+}
+
+.Info1{
+
+    position: relative;
+    color: white;
+    left: 97px;
+    bottom: 34px;
+
+
+}
+
+.statoRicarica{
+
+    position: relative;
+    bottom: 14px;
+
+}
+
+.Barra1{
+
+    width: 258px;
+    height: 25px;
+    background-color: #F2B950;
+    position: relative;
+    bottom: 11px;
+    border-radius: 5px;
+
+}
+
+
+
+.MonoMike24{
+    color: white;
+    position: relative;
+    bottom: 50px;
+    left: 110px;
+
+}
+
+ .check2 {
+
+    position: absolute;
+    top: 2px;
+    left: -20px;
+    width: 12px;
+
+}
+
+.Info2{
+
+    position: relative;
+    color: white;
+    left: 97px;
+    bottom: 65px;
+
+
+}
+
+.statoRicarica2{
+
+    position: relative;
+    bottom: 14px;
+
+}
+
+.Barra2{
+
+    width: 440px;
+    height: 25px;
+    background-color: #74BF04;
+    position: relative;
+    bottom: 11px;
+    border-radius: 5px;
+
+
+}
+
+.MonoFede154{
+
+    color: white;
+    position: relative;
+    bottom: 80px;
+    left: 110px;
+}
+
+ .check3 {
+
+    position: absolute;
+    top: 2px;
+    left: -20px;
+    width: 12px;
+
+}
+
+.Info3{
+
+    position: relative;
+    color: white;
+    left: 97px;
+    bottom: 95px;
+
+
+}
+
+.statoRicarica3{
+
+    position: relative;
+    bottom: 15px;
+
+}
+
+.Barra3{
+
+    width: 140px;
+    height: 25px;
+    background-color: #F30A65;
+    position: relative;
+    bottom: 11px;
+    border-radius: 5px;
+
+
+}
